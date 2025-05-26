@@ -1,6 +1,6 @@
 {
   "name": "yamcp",
-  "version": "0.2.2",
+  "version": "0.2.3",
   "description": "Organize and manage your MCP servers in YAM (Yet Another MCP) workspaces - create dedicated workspaces for Research, Coding, Data Analysis, and more",
   "types": "dist/index.d.ts",
   "repository": {
