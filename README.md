@@ -113,6 +113,20 @@ yamcp log                    # View server communication logs
 
 ---
 
+### YAMCP UI (created by [@eladcandroid](https://github.com/eladcandroid))
+[YAMCP UI](https://github.com/eladcandroid/yamcp-ui) provides an intuitive web interface to manage your MCP servers and workspaces through a universal dashboard.
+
+```bash
+# Run directly with npx (recommended)
+npx yamcp-ui
+
+# Or install globally
+npm install -g yamcp-ui
+yamcp-ui
+```
+
+Refer to the project repo for full documentation: https://github.com/eladcandroid/yamcp-ui.
+
 ## 🏗️ System Architecture
 
 ```mermaid
