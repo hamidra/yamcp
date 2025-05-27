@@ -113,7 +113,7 @@ yamcp log                    # View server communication logs
 
 ---
 
-### YAMCP UI (created by [@eladcandroid](https://github.com/eladcandroid))
+## 🖥️ YAMCP UI (created by [@eladcandroid](https://github.com/eladcandroid))
 [YAMCP UI](https://github.com/eladcandroid/yamcp-ui) provides an intuitive web interface to manage your MCP servers and workspaces through a universal dashboard.
 
 ```bash
