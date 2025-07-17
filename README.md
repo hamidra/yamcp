@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/hamidra-yamcp-badge.png)](https://mseep.ai/app/hamidra-yamcp)
+
 # 🍠 YAMCP - A Model Context Workspace Manager
 
 YAMCP (YAM-C-P) is a command-line tool for organizing and managing MCP servers as local workspaces. It seamlessly connects to multiple MCP servers, local or remote, grouping them into a unified workspace exposed as Yet Another MCP server (YAM) for AI applications. You can create dedicated workspaces based on specific functionality (e.g., a YAM workspace for coding, design, research, ...) or based on the AI apps that consume servers (e.g., a YAM for Cursor, Claude, Windsurf) or any other combination in between. In addition, it simplifies monitoring and debugging MCP servers by centralizing all server communication logs in a single store, eliminating the need to dig through each AI client app’s logs separately.
